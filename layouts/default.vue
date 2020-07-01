@@ -1,9 +1,7 @@
 <template>
-  <v-app dark>
+  <v-app light>
     <v-content>
-      <v-container fluid style="padding: 0">
-        <nuxt />
-      </v-container>
+      <nuxt />
     </v-content>
 
     <v-footer app>
